@@ -14,7 +14,25 @@
 ///
 void KarelProgram() {
 /// @todo Добавить программу для Карела
-
+    TurnLeft();
+    TurnLeft();
+    TurnLeft();
+    Move();
+    Move();
+    TurnLeft();
+    Move();
+    Move();
+    TurnLeft();
+    Move();
+    Move();
+    TurnLeft();
+    Move();
+    TurnLeft();
+    Move();
+    TurnLeft();
+    Move();
+    Move();
+    PickBeeper();
 }
 
 
